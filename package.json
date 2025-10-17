@@ -1,0 +1,25 @@
+{
+  "name": "up!",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.14",
+    "chart.js": "^4.5.1",
+    "tailwind-scrollbar-hide": "^4.0.0",
+    "tailwindcss": "^4.1.14"
+  },
+  "devDependencies": {
+    "daisyui": "^5.1.29",
+    "prettier": "3.6.2",
+    "prettier-plugin-tailwindcss": "^0.6.14"
+  }
+}

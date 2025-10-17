@@ -1,0 +1,104 @@
+<div class="flex gap-2.5 overflow-x-scroll scrollbar-hide">
+  <button
+    class="z-10 relative bg-[#FF9719A8] bg-blend-color px-6 rounded-full min-w-52 h-20 overflow-hidden font-bold text-white text-2xl shrink-0">
+    <div
+      class="top-0 left-0 -z-10 absolute bg-black opacity-40 w-full h-20"></div>
+    <img
+      src="https://images.pexels.com/photos/2675061/pexels-photo-2675061.jpeg"
+      alt=""
+      class="top-0 left-0 -z-20 absolute opacity-40 w-full h-20 object-cover" />
+    Pendidikan
+  </button>
+  <button
+    class="z-10 relative bg-[#18B0FCA8] bg-blend-color px-6 rounded-full min-w-52 h-20 overflow-hidden font-bold text-white text-2xl shrink-0">
+    <div
+      class="top-0 left-0 -z-10 absolute bg-black opacity-40 w-full h-20"></div>
+    <img
+      src="https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg"
+      alt=""
+      class="top-0 left-0 -z-20 absolute opacity-40 w-full h-20 object-cover" />
+    Perekonomian
+  </button>
+  <button
+    class="z-10 relative bg-[#92FC18A8] bg-blend-color px-6 rounded-full min-w-52 h-20 overflow-hidden font-bold text-white text-2xl shrink-0">
+    <div
+      class="top-0 left-0 -z-10 absolute bg-black opacity-40 w-full h-20"></div>
+    <img
+      src="https://images.pexels.com/photos/29989223/pexels-photo-29989223.jpeg"
+      alt=""
+      class="top-0 left-0 -z-20 absolute opacity-40 w-full h-20 object-cover" />
+    Pertanian
+  </button>
+  <button
+    class="z-10 relative bg-[#CB3C47] bg-blend-color px-6 rounded-full min-w-52 h-20 overflow-hidden font-bold text-white text-2xl shrink-0">
+    <div
+      class="top-0 left-0 -z-10 absolute bg-black opacity-40 w-full h-20"></div>
+    <img
+      src="https://images.pexels.com/photos/207896/pexels-photo-207896.jpeg"
+      alt=""
+      class="top-0 left-0 -z-20 absolute opacity-40 w-full h-20 object-cover" />
+    Sosial Budaya
+  </button>
+  <button
+    class="z-10 relative bg-[#7018FCA8] bg-blend-color px-6 rounded-full min-w-52 h-20 overflow-hidden font-bold text-white text-2xl shrink-0">
+    <div
+      class="top-0 left-0 -z-10 absolute bg-black opacity-40 w-full h-20"></div>
+    <img
+      src="https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg"
+      alt=""
+      class="top-0 left-0 -z-20 absolute opacity-40 w-full h-20 object-cover" />
+    Teknologi
+  </button>
+</div>
+<div class="flex gap-2.5 overflow-x-scroll scrollbar-hide">
+  <button
+    class="z-10 relative bg-[#FF9719A8] bg-blend-color px-6 rounded-full min-w-52 h-20 overflow-hidden font-bold text-white text-2xl shrink-0">
+    <div
+      class="top-0 left-0 -z-10 absolute bg-black opacity-40 w-full h-20"></div>
+    <img
+      src="https://images.pexels.com/photos/2675061/pexels-photo-2675061.jpeg"
+      alt=""
+      class="top-0 left-0 -z-20 absolute opacity-40 w-full h-20 object-cover" />
+    Pendidikan
+  </button>
+  <button
+    class="z-10 relative bg-[#18B0FCA8] bg-blend-color px-6 rounded-full min-w-52 h-20 overflow-hidden font-bold text-white text-2xl shrink-0">
+    <div
+      class="top-0 left-0 -z-10 absolute bg-black opacity-40 w-full h-20"></div>
+    <img
+      src="https://images.pexels.com/photos/730547/pexels-photo-730547.jpeg"
+      alt=""
+      class="top-0 left-0 -z-20 absolute opacity-40 w-full h-20 object-cover" />
+    Perekonomian
+  </button>
+  <button
+    class="z-10 relative bg-[#92FC18A8] bg-blend-color px-6 rounded-full min-w-52 h-20 overflow-hidden font-bold text-white text-2xl shrink-0">
+    <div
+      class="top-0 left-0 -z-10 absolute bg-black opacity-40 w-full h-20"></div>
+    <img
+      src="https://images.pexels.com/photos/29989223/pexels-photo-29989223.jpeg"
+      alt=""
+      class="top-0 left-0 -z-20 absolute opacity-40 w-full h-20 object-cover" />
+    Pertanian
+  </button>
+  <button
+    class="z-10 relative bg-[#CB3C47] bg-blend-color px-6 rounded-full min-w-52 h-20 overflow-hidden font-bold text-white text-2xl shrink-0">
+    <div
+      class="top-0 left-0 -z-10 absolute bg-black opacity-40 w-full h-20"></div>
+    <img
+      src="https://images.pexels.com/photos/207896/pexels-photo-207896.jpeg"
+      alt=""
+      class="top-0 left-0 -z-20 absolute opacity-40 w-full h-20 object-cover" />
+    Sosial Budaya
+  </button>
+  <button
+    class="z-10 relative bg-[#7018FCA8] bg-blend-color px-6 rounded-full min-w-52 h-20 overflow-hidden font-bold text-white text-2xl shrink-0">
+    <div
+      class="top-0 left-0 -z-10 absolute bg-black opacity-40 w-full h-20"></div>
+    <img
+      src="https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg"
+      alt=""
+      class="top-0 left-0 -z-20 absolute opacity-40 w-full h-20 object-cover" />
+    Teknologi
+  </button>
+</div>
