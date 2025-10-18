@@ -10,6 +10,20 @@
   --color-third: #ef9127;
 }
 
+/* Kelas untuk text-box-trim */
+@utility text-trim-both {
+  text-box-trim: trim-both;
+}
+
+/* Kelas untuk text-box-edge (cap alphabetic) */
+@utility text-edge-cap-alpha {
+  text-box-edge: cap alphabetic;
+}
+
+/* Kelas shorthand (text-box) */
+@utility text-box-trimmed {
+  text-box: trim-both cap alphabetic;
+}
 @layer utilities {
   .scrollbar-hide::-webkit-scrollbar {
     display: none;
